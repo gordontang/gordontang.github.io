@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Gordon Tang
 tagline:          'Aspiring data/UX product manager'
 description:      'Aspiring product manager. Data, UX industrial engineer.'
-url:              http://gordontang.github.io/gordontang/
+url:              https://gordontang.github.io/gordontang/
 baseurl:          /
 
 author:
