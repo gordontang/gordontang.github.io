@@ -11,7 +11,7 @@ title:            Gordon Tang
 tagline:          'Aspiring data/UX product manager'
 description:      'Aspiring product manager. Data, UX industrial engineer.'
 url:              https://gordontang.github.io/gordontang/
-baseurl:          
+baseurl:          /
 
 author:
   name:           'Gordon Tang'
