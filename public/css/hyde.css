@@ -83,6 +83,21 @@ html {
   font-size: 3.25rem;
 }
 
+/* Sidebar portraits */
+.sidebar-img {
+  max-width: 120px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+@media (min-width: 48em) {
+  .sidebar-img {
+    margin-left: 0;
+
+  }
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
