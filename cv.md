@@ -17,25 +17,26 @@ University of Toronto
 <strong>WORK EXPERIENCE</strong>
 
 <a href="http://influitive.com">Influitive</a>, <i>Product Management Intern</i> (May - August 2014)
+Influitive is a startup that helps 100+ B2B companies (e.g. HP, Oracle, Salesforce) discover, mobilize, and recognize their advocates to accelerate sales and marketing efforts. Tackled 9 projects with the product team.
 <ul>
-	<li>Developed a ROI dashboard to predict financial return for prospects.</li>
-	<li>Tested and validated a new audio story feature for the product roadmap.</li>
-	<li>Identified 2 key event app partners to integrate with and created a mock-up of the user experience to support the launch of our mobile events integration.</li>
+	<li>Piloted a multimedia feature with 20+ users that is now on the product roadmap.</li>
+	<li>Established Influitive’s user interview pipeline and led 6 user calls in the first week.</li>
+	<li>Integrated with a major event app partner and created a mock-up to launch our mobile events integration to 150+ advocate users in alpha.</li>
 </ul>
 <a href="http://labatt.com">Labatt Breweries of Canada</a>, <i>Sales Analyst</i> (May 2013 - 2014)
-<ul>
-	<li>Established a routine reporting process for “supply chain loss” costs in Canada’s four operating regions.</li>
-	<li>Performed Pareto analysis on supply chain loss costs totalling $5 million in the 2013 national sales account to determine key actions for 2014.</li>
-	<li>Conducted linear regression analysis to identify preliminary investment decisions for $7 million across 8,000 independent on-premise accounts (e.g. bars, restaurants).</li>
-	<li>Launched Labatt’s first internship information session and group case interview to increase campus presence and recruit 5 interns (4 more than last year).</li>
-</ul>
+Labatt is Canada’s largest brewer and part of AB InBev. Created KPI trackers for measuring sales impact.
+* Established a routine reporting process for $ millions in annual “supply chain loss” costs in Canada’s four operating regions.
+* Performed a retrospective Pareto analysis on supply chain loss costs totalling $5 million to find solutions for 2014.
+* Conducted linear regression analysis to make preliminary investment decisions for $7 million across 8,000 independent on-premise accounts (e.g. bars, restaurants).
+* Launched Labatt’s first internship information session and group case interview to increase campus presence and recruit 5 interns - 4 more than last year.
 <strong>LEADERSHIP EXPERIENCE</strong>
 
 <a href="http://yourenext.ca/">You’re Next Career Network</a>, <em>President</em> (Mar 2014 - Present)
-<ul>
-	<li>Refocused 44 teammates on our core competencies in 3 comprehensive missions.</li>
-	<li>Designed and deployed a three-app system to unify and standardize event marketing between 4 squads and 24 distribution channels; reducing work by 35%.</li>
-</ul>
+Leading a 49-student career development team that prepares and connects 3,000 University of Toronto engineering & IT students with 150+ employers like Google, Tesla, and P&G through 20+ events annually.
+* Organized Canada's largest startup career fair -- 2,000 students and 80 employers.
+* Consolidated event marketing between 24 marketing channels and 4 teams; saving 30% of time spent previously.
+* Coordinated a Frosh Week campaign that acquired 800 students for our audience.
+
 <a href="http://yourenext.ca/">You’re Next Career Network</a> - The Startup Hub, <i>Associate Director</i> (2013 - 2014)
 <ul>
 	<li>Led marketing and business development to organize Canada's largest startup job fair - the 2014 Startup Career Expo - connecting 2,000 students and 80 employers.</li>

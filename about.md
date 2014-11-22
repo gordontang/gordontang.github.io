@@ -66,6 +66,6 @@ I am passionate about building products that help people and society and aspire 
 </table>
 
 ### What I do for fun
-I love sports. Everything including volleyball, dragon boat, hockey, golf, skiing, and more. Not surprisingly, I love the outdoors and the back country.
+I love sports. Everything including volleyball, dragon boat, hockey, golf, skiing, and more. Not surprisingly, I love the outdoors and the back-country.
 
 In my spare time, I follow tech news and drool over the cool new hardware and software.

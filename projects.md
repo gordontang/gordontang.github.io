@@ -6,7 +6,7 @@ title: Projects
 
 ### Table of Contents
 1. <a href="#1">Story Master</a>
-2. <a href="#2">Mobile Technology-Rich Active Classroom</a>
+2. <a href="#2">Mobile Technology Rich Active Classroom</a>
 3. <a href="#3">Smart Sleeper</a>
 4. <a href="#4">University of Toronto Concrete Canoe Team Website</a>
 5. <a href="#5">Gaming PC Assembly</a>
@@ -50,7 +50,9 @@ The prototype consisted of a story which is advanced by specific gestures with t
 <a href="#top">^ Top</a><br>
 *--------------------------*
 <a name="2"></a>
-## Classroom of the Future
+## Mobile Technology Rich Active Classroom
+Project Site: ![http://gordontang.ca/mTRAC-site/](http://gordontang.ca/mTRAC-site/)
+
 Creating a remote, interactive, high-tech learning environment for the Canadian Forces with Defence Research and Development Canada.
 
 Start Date: <em>September 1, 2014</em>
