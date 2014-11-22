@@ -3,9 +3,9 @@ layout: page
 title: About Me
 ---
 
-I am an industrial engineering student with data-driven and user-centered experiences.
+I am an industrial engineering student who is passionate about building products that connect people and build meaningful relationships.
 
-I am passionate about building products that help people and society and aspire to be a great product manager.
+I aspire to be a great product manager, and have had data-driven and user-centered experiences working in and leading teams with up to 50 talented individuals.
 
 ### Products I built
 <table>
