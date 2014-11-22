@@ -24,15 +24,20 @@ Influitive is a startup that helps 100+ B2B companies (e.g. HP, Oracle, Salesfor
 	<li>Integrated with a major event app partner and created a mock-up to launch our mobile events integration to 150+ advocate users in alpha.</li>
 </ul>
 <a href="http://labatt.com">Labatt Breweries of Canada</a>, <i>Sales Analyst</i> (May 2013 - 2014)
+
 Labatt is Canada’s largest brewer and part of AB InBev. Created KPI trackers for measuring sales impact.
+
 * Established a routine reporting process for $ millions in annual “supply chain loss” costs in Canada’s four operating regions.
 * Performed a retrospective Pareto analysis on supply chain loss costs totalling $5 million to find solutions for 2014.
 * Conducted linear regression analysis to make preliminary investment decisions for $7 million across 8,000 independent on-premise accounts (e.g. bars, restaurants).
 * Launched Labatt’s first internship information session and group case interview to increase campus presence and recruit 5 interns - 4 more than last year.
+
 <strong>LEADERSHIP EXPERIENCE</strong>
 
 <a href="http://yourenext.ca/">You’re Next Career Network</a>, <em>President</em> (Mar 2014 - Present)
+
 Leading a 49-student career development team that prepares and connects 3,000 University of Toronto engineering & IT students with 150+ employers like Google, Tesla, and P&G through 20+ events annually.
+
 * Organized Canada's largest startup career fair -- 2,000 students and 80 employers.
 * Consolidated event marketing between 24 marketing channels and 4 teams; saving 30% of time spent previously.
 * Coordinated a Frosh Week campaign that acquired 800 students for our audience.
