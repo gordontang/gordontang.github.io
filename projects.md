@@ -51,7 +51,7 @@ The prototype consisted of a story which is advanced by specific gestures with t
 *--------------------------*
 <a name="2"></a>
 ## Mobile Technology Rich Active Classroom
-Project Site: ![http://gordontang.ca/mTRAC-site/](http://gordontang.ca/mTRAC-site/)
+Project Site: [http://gordontang.ca/mTRAC-site/](http://gordontang.ca/mTRAC-site/)
 
 Creating a remote, interactive, high-tech learning environment for the Canadian Forces with Defence Research and Development Canada.
 
