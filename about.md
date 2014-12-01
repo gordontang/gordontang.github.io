@@ -3,19 +3,19 @@ layout: page
 title: About Me
 ---
 
-I am an industrial engineering student who is passionate about building products that connect people and build meaningful relationships.
+I am an industrial engineering student who is passionate about using technology to improve the world around us. In the past, I have worked on products that connect people and build meaningful relationships.
 
-I aspire to be a great product manager, and have had data-driven and user-centered experiences working in and leading teams with up to 50 talented individuals.
+I aspire to be a great product manager, and look to bring my data-driven and user-centered experiences to good use.
 
 ### Products I built
 <table>
 <tbody>
 <tr>
 	<td style="text-align: center;"><span style="color: #888888;"><strong>2014 Toronto Startup Career Expo</strong><br>
-	You're Next Career Network</span>
+	<a href="http://yourenext.ca">You're Next Career Network</a></span>
 	</td>
 	<td style="text-align: center;"><span style="color: #888888;"><strong>Skule Kup</strong>
-	<br>Engineering Society</span>
+	<br><a href="http://skule.ca">Engineering Society</a></span>
 	</td>
 </tr>
 </tbody>
@@ -43,7 +43,8 @@ I aspire to be a great product manager, and have had data-driven and user-center
 <table>
 <tbody>
 	<tr>
-		<td style="text-align: center;"><span style="color: #888888;"><strong>Influitive</strong></span></td>
+		<td style="text-align: center;"><span style="color: #888888;"><strong><a href="http://influitive.com">Influitive</a></strong>
+		<br>AdvocateHub and <a href="http://advocatemarketing.com">AdvocateMarketing.com</a></span></td>
 		<td style="text-align: center;"><span style="color: #888888;"><strong>Labatt Breweries of Canada</strong></span></td>
 	</tr>
 </tbody>
