@@ -12,10 +12,10 @@ I aspire to be a great product manager, and look to bring my data-driven and use
 <tbody>
 <tr>
 	<td style="text-align: center;"><span style="color: #888888;"><strong>2014 Toronto Startup Career Expo</strong><br>
-	<a href="http://yourenext.ca">You're Next Career Network</a></span>
+	You're Next Career Network</span>
 	</td>
 	<td style="text-align: center;"><span style="color: #888888;"><strong>Skule Kup</strong>
-	<br><a href="http://skule.ca">Engineering Society</a></span>
+	<br>Engineering Society</span>
 	</td>
 </tr>
 </tbody>
@@ -43,7 +43,7 @@ I aspire to be a great product manager, and look to bring my data-driven and use
 <table>
 <tbody>
 	<tr>
-		<td style="text-align: center;"><span style="color: #888888;"><strong><a href="http://influitive.com">Influitive</a></strong>
+		<td style="text-align: center;"><span style="color: #888888;"><strong>Influitive</strong>
 		<br>AdvocateHub and <a href="http://advocatemarketing.com">AdvocateMarketing.com</a></span></td>
 		<td style="text-align: center;"><span style="color: #888888;"><strong>Labatt Breweries of Canada</strong></span></td>
 	</tr>
@@ -69,4 +69,4 @@ I aspire to be a great product manager, and look to bring my data-driven and use
 ### What I do for fun
 I love sports. Everything including volleyball, dragon boat, hockey, golf, skiing, and more. Not surprisingly, I love the outdoors and the backcountry.
 
-In my spare time, I follow tech news and drool over the cool new hardware and software.
+In my spare time, I follow tech news and drool over cool new hardware and software.
