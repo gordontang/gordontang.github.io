@@ -3,9 +3,11 @@ layout: page
 title: About Me
 ---
 
-I am an industrial engineering student who is passionate about using technology to improve the world around us. In the past, I have worked on products that connect people and build meaningful relationships.
+I am an industrial engineering student who is passionate about using technology to improve the world around us. In the past, I have enjoyed working on products that connect people and build meaningful relationships.
 
-I aspire to be a great product manager, and look to bring my data-driven and user-centered experiences to good use.
+Currently, I am completing my final year and lead the You're Next Career Network at the University of Toronto. In addition, I am working on developing a mobile, technology-rich classroom for Defence Research and Development Canada.
+
+Upon graduation, I aspire to be a great product manager, and look to apply my data, UX, and leadership abilities.
 
 ### Products I built
 <table>
@@ -66,7 +68,22 @@ I aspire to be a great product manager, and look to bring my data-driven and use
 </tbody>
 </table>
 
-### What I do for fun
-I love sports. Everything including volleyball, dragon boat, hockey, golf, skiing, and more. Not surprisingly, I love the outdoors and the backcountry.
+### Getting personal
 
-In my spare time, I follow tech news and drool over cool new hardware and software.
+I was born and raised in Toronto and am proud to call this city my home.
+
+I spend most of my free time on [student organizations](http://gordontang.ca/cv/) or [projects](http://gordontang.ca/projects/). I focused much of my time in high school and university honing soft skills and building a better community, but have recently begun to partake in personal projects.
+
+To unwind, I play sports, read, and cook (casually).
+
+#### Athletics
+
+I played competitive volleyball and badminton in high school, winning local championships and even the OFSAA/provincial volleyball championship one year.
+
+Nowadays, I play intramural volleyball to stay fit during school, some ultimate frisbee, and dragon boat in the Toronto Dragon Boat Festival. I dabble recreationally in outdoor shinny hockey, ski and snowboard in the winter, and golf in the summer.
+
+#### Reading
+
+I enjoy non-fiction, business, biography, science fiction, and philosophical books.
+
+I follow tech news (e.g. The Verge, TechCrunch) and drool over cool new hardware and software.
