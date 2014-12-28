@@ -46,20 +46,20 @@ Leading a 49-student career development team that prepares and connects 3,000 Un
 <ul>
 	<li>Led marketing and business development to organize Canada's largest startup job fair - the 2014 Startup Career Expo - connecting 2,000 students and 80 employers.</li>
 	<li>Proactively coordinated an organization-wide review of all four squads’ partnership packages with 20 teammates during our summer planning period.</li>
-	<li>Initiated the first weekly careers newsletter reaching 1,600 U of T engineering students.</li>
+	<li>Initiated the first weekly career development newsletter reaching 1,600 U of T engineering students.</li>
 </ul>
 <a href="http://canoe.skule.ca">U of T Concrete Canoe Team</a>, <i>Paddling Coach &amp; Webmaster</i> (2012 - 2014)
 <ul>
-	<li>Placed 3<sup>rd</sup> at the 2013 Canadian National Concrete Canoe Competition by teaching 8 paddlers advanced canoeing techniques &amp; strategically arranging the race roster;</li>
-	<li>Redesigned the visual aspect of <a href="http://www.canoe.skule.ca/">canoe.skule.ca</a> to increase exposure for 21 sponsors.</li>
+	<li>Contributed to the design team's first podium finish in 9 years at the 2013 [Canadian National Concrete Canoe Competition](http://en.wikipedia.org/wiki/Concrete_canoe#Canadian_Concrete_Canoe) by coaching 8 paddlers with advanced canoeing techniques and managing the race roster.</li>
+	<li>Redesigned <a href="http://www.canoe.skule.ca/">canoe.skule.ca</a> to showcase our canoes and increase sponsor visibility.</li>
 </ul>
 <a href="http://skule.ca">U of T Engineering Society</a>, <i>Vice-President External</i> (2011 - 2012)
 <ul>
-	<li>Managed external relations with Canadian engineering societies by representing 4,800 students’ interests in national and provincial councils;</li>
-	<li>Initiated a partnership between the executives of 4 engineering societies to generate project solutions, such as our store renovation (2x display space &amp; 0.5x wait times);</li>
-	<li>Led an 8-person team to launch 9 competitive events (e.g., foosball tournament, soccer league, penny wars) engaging 500+ students throughout the year.</li>
+	<li>Managed external relations with Canadian engineering societies by representing 4,800 students’ interests in national and provincial councils.</li>
+	<li>Established a partnership between the executives of 4 engineering societies to learn best practices, such as our store renovation.</li>
+	<li>Initiated an annual “Skule Kup” tournament between engineering disciplines that enables hundreds of first year students to connect in 5+ competitions.</li>
 </ul>
-Vision Youth Leadership Program, <i>Youth Counselor</i> (2009 - 2013)
+<a href="http://visionyouth.ca/">Vision Youth Leadership Program</a>, <i>Youth Counselor</i> (2009 - 2013)
 <ul>
 	<li>Coached 6 summer program participants to improve both soft &amp; outdoor skills in a community service project and their Bronze level Duke of Edinburgh’s Award.</li>
 </ul>
