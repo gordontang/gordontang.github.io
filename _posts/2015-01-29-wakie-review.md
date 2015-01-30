@@ -10,14 +10,16 @@ date: 2015-01-29
 
 **What is Wakie?**
 
-Wakie is a social alarm clock app powered by a friendly community of strangers who wake one another up in the morning. Rather than having your typical alarm clock wake you, a human being will call you.
+Wakie is a social alarm clock app powered by a friendly community of people who wake one another up in the morning. Rather than snoozing through your alarm clock, "Wakies" will call you (the "Sleepy") to get your day off to a good start.
 
-Each call lasts 60 seconds, enough time for a nice chat to kickstart the Sleepy's day (Sleepy = the person being woken up). In case there is no one to call you when you want to wake up, Wakie's robot will call instead.
+On the other end, waking Sleepies seems like a strange behaviour, but enthusiastic Sleepies and curious users will find it to be a fun, mood-lifting, and rewarding experience. As a result, Wakies are likely to call multiple people in a session.
+
+Each call lasts 60 seconds, enough time for a nice chat or quick song to kickstart the Sleepy's day. In case there is no one to call you when you want to wake up, you will still receive a wake up call, albeit automated.
 
 **Why I love it**
 
-While Wakie has created a fun community environment, the app itself utilizes an understanding of human behaviour to effectively wake you up. By getting Sleepies to be more active when they are woken and further stimulating them with strangers, they are more likely to remain awake.
+The Wakie team has effectively utilized simple tools like phone calls and a communal message board to create a fun community environment. They have also been able to eliminate the major initial barriers such as providing a free calling service and protecting users' identities.
 
-The Wakie team has been able to eliminate the major initial barriers to use such as providing a calling service and keeping users anonymous.
+The app itself utilizes an understanding of human behaviour to effectively wake you up. By getting Sleepies to be more mentally active and engaged when they are woken, they are more likely to remain awake.
 
-Although Wakie doesn't generate revenue yet, there are interesting opportunities as an advertising platform or adding premium features like longer calls, enabling users to connect after their Wakie call, or the ability to play sound effects or songs during a call. Marketers could target enthusiasts and utilize Wakie calls for promotions. Imagine waking up and winning tickets to a Taylor Swift concert.
+Although Wakie doesn't generate revenue yet, there are interesting opportunities as an advertising platform or adding premium features like longer calls, enabling users to connect after their Wakie call, or the ability to play sound effects or songs during a call. Marketers could target enthusiasts and utilize Wakie calls for promotions. Imagine waking up and winning tickets to a Taylor Swift concert! [Love Story](https://www.youtube.com/watch?v=8xg3vE8Ie_E) come true.
