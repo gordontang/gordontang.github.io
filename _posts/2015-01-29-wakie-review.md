@@ -20,4 +20,4 @@ While Wakie has created a fun community environment, the app itself utilizes an 
 
 The Wakie team has been able to eliminate the major initial barriers to use such as providing a calling service and keeping users anonymous.
 
-Although Wakie doesn't generate revenue yet, there are interesting opportunities as an advertising platform or adding premium features like longer calls, enabling users to connect after their Wakie call, or the ability to play sound effects or songs during a call. Marketers could target enthusiasts and utilize Wakie calls for promotions (e.g. winning tickets to a concert when you wake up).
+Although Wakie doesn't generate revenue yet, there are interesting opportunities as an advertising platform or adding premium features like longer calls, enabling users to connect after their Wakie call, or the ability to play sound effects or songs during a call. Marketers could target enthusiasts and utilize Wakie calls for promotions. Imagine waking up and winning tickets to a Taylor Swift concert.
