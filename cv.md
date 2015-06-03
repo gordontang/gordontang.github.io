@@ -65,6 +65,7 @@ Leading a 49-student career development team that prepares and connects 3,000 Un
 </ul>
 <strong>AWARDS</strong>
 
+* Gordon Cressy Student Leadership Award, <i>University of Toronto</i> (2015)
 * Startup Weekend Finalist, <i>U.S. Embassy Ottawa</i> (2014)
 * Julie Wilkinson Memorial Scholarship, <i>University of Toronto</i> (2013)
 * First Place, SIMUL8 Simulation Case Competition, <i>University of Toronto</i> (2013)

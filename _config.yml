@@ -8,8 +8,8 @@ relative_permalinks: true
 
 # Setup
 title:            Gordon Tang
-tagline:          'Aspiring data/UX product manager'
-description:      'Aspiring product manager. Data, UX industrial engineer.'
+tagline:          'Data, UX industrial engineer.'
+description:      'Data, UX industrial engineer.'
 url:              https://gordontang.github.io/
 baseurl:          /
 

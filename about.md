@@ -5,9 +5,45 @@ title: About Me
 
 I am an industrial engineering student who is passionate about using technology to improve the world around us. In the past, I have enjoyed working on products that connect people and build meaningful relationships.
 
-Currently, I am completing my final year and lead the You're Next Career Network at the University of Toronto. In addition, I am working on developing a mobile, technology-rich classroom for Defence Research and Development Canada.
+For the next two years, I will be learning to build successful companies as a Venture for Canada fellow and look forward to working in product development.
 
-Upon graduation, I aspire to be a great product manager, and look to apply my data, UX, and leadership abilities.
+### Skills
+<ul>
+    <span class="meter">
+        <span style="width: 90%;"></span>
+    </span>
+    Excel 
+    <br>
+    <span class="meter">
+        <span style="width: 60%;"></span>
+    </span>
+    SQL
+    <br>
+    <span class="meter">
+        <span style="width: 90%;"></span>
+    </span>
+    Project Management
+    <br>
+    <span class="meter">
+        <span style="width: 80%;"></span>
+    </span>
+   	User Centred Design
+   	<br>
+    <span class="meter">
+        <span style="width: 80%;"></span>
+    </span>
+    Java
+    <br>
+    <span class="meter">
+        <span style="width: 60%;"></span>
+    </span>
+    Android
+    <br>
+    <span class="meter">
+        <span style="width: 40%;"></span>
+    </span>
+    Photoshop, Illustrator
+</ul>
 
 ### Products I built
 <table>
