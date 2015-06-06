@@ -27,7 +27,7 @@ For the next two years, I will be learning to build successful companies as a Ve
     <span class="meter">
         <span style="width: 80%;"></span>
     </span>
-   	User Centred Design
+   	User Centered Design
    	<br>
     <span class="meter">
         <span style="width: 80%;"></span>
@@ -108,7 +108,7 @@ For the next two years, I will be learning to build successful companies as a Ve
 
 I was born and raised in Toronto and am proud to call this city my home.
 
-I spend most of my free time on [student organizations](http://gordontang.ca/cv/) or [projects](http://gordontang.ca/projects/). I focused much of my time in high school and university honing soft skills and building a better community, but have recently begun to partake in personal projects.
+I spend most of my free time on [student organizations](http://gordontang.ca/cv/) or [projects](http://gordontang.ca/projects/). I focused much of my time in high school and university honing soft skills and building a better community, but have recently begun to partake in personal coding projects.
 
 To unwind, I play sports, read, and cook (casually).
 
