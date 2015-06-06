@@ -4,8 +4,6 @@ title: Wakie - The Social Alarm Clock
 date: 2015-01-29
 ---
 
-*A product review on Wakie for my application to the [KPCB Fellows](http://kpcbfellows.com/) program.*
-
 [![Wakie](/images/wakie.jpg)](http://wakie.com/)
 
 **What is Wakie?**
